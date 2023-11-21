@@ -1,0 +1,7 @@
+<Shipment>
+  <Shipment shipmentName="a" distance="15" price="20,0000" />
+  <Shipment shipmentName="b" distance="10" price="30,0000" />
+  <Shipment shipmentName="c" distance="20" price="80,0000" />
+  <Shipment shipmentName="d" distance="25" price="90,0000" />
+  <Shipment shipmentName="e" distance="30" price="100,0000" />
+</Shipment>

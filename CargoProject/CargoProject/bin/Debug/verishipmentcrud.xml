@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shipments>
+  <shipment>
+    <shipmentno>1</shipmentno>
+    <shipmentname>a</shipmentname>
+    <dispatchpoint>Kadikoy</dispatchpoint>
+    <transportationpoint>Uskudar</transportationpoint>
+    <distance>20</distance>
+    <price>1000</price>
+  </shipment>
+  <shipment>
+    <shipmentno>2</shipmentno>
+    <shipmentname>b</shipmentname>
+    <dispatchpoint>Uskudar</dispatchpoint>
+    <transportationpoint>Kadikoy</transportationpoint>
+    <distance>20</distance>
+    <price>1000</price>
+  </shipment>
+  <shipment>
+    <shipmentno>3</shipmentno>
+    <shipmentname>c</shipmentname>
+    <dispatchpoint>Atasehir</dispatchpoint>
+    <transportationpoint>Kadikoy</transportationpoint>
+    <distance>32</distance>
+    <price>2000</price>
+  </shipment>
+  <shipment>
+    <shipmentno>4</shipmentno>
+    <shipmentname>d</shipmentname>
+    <dispatchpoint>Kadikoy</dispatchpoint>
+    <transportationpoint>Atasehir</transportationpoint>
+    <distance>32</distance>
+    <price>2000</price>
+  </shipment>
+  <shipment>
+    <shipmentno>5</shipmentno>
+    <shipmentname>e</shipmentname>
+    <dispatchpoint>Besiktas</dispatchpoint>
+    <transportationpoint>Kadikoy</transportationpoint>
+    <distance>25</distance>
+    <price>2500</price>
+  </shipment>
+</shipments>

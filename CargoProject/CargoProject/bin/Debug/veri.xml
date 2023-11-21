@@ -1,0 +1,7 @@
+<Cars>
+  <Cars carDriver="Ali" carExpense="7000,0000" carModelname="SUV" />
+  <Cars carDriver="Burak" carExpense="2000,0000" carModelname="Minivan" />
+  <Cars carDriver="Sena" carExpense="1000,0000" carModelname="Hybrid" />
+  <Cars carDriver="Ebrar" carExpense="5500,0000" carModelname="SUV" />
+  <Cars carDriver="Mehmed" carExpense="8000,0000" carModelname="Truck" />
+</Cars>

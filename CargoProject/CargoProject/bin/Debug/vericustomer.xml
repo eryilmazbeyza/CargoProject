@@ -1,0 +1,7 @@
+<Customers>
+  <Customers nameSurname="Ali Kaya" address="Uskudar" phoneNumber="545323" />
+  <Customers nameSurname="Mehmed Kaya" address="Kadikoy" phoneNumber="545312" />
+  <Customers nameSurname="Zehra Ay" address="Maltepe" phoneNumber="545789" />
+  <Customers nameSurname="Güzin Ziya" address="Tuzla" phoneNumber="545632" />
+  <Customers nameSurname="Nur Yıldız" address="Besiktas" phoneNumber="530456" />
+</Customers>

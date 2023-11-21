@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <car>
+    <carno>1</carno>
+    <carmodelname>SUV</carmodelname>
+    <carcapacity>10</carcapacity>
+    <cardriver>Ali</cardriver>
+    <carexpense>1000</carexpense>
+  </car>
+  <car>
+    <carno>2</carno>
+    <carmodelname>Truck</carmodelname>
+    <carcapacity>20</carcapacity>
+    <cardriver>Mehmet</cardriver>
+    <carexpense>2000</carexpense>
+  </car>
+  <car>
+    <carno>3</carno>
+    <carmodelname>Sport</carmodelname>
+    <carcapacity>5</carcapacity>
+    <cardriver>Melehat</cardriver>
+    <carexpense>3000</carexpense>
+  </car>
+  <car>
+    <carno>4</carno>
+    <carmodelname>Truck</carmodelname>
+    <carcapacity>30</carcapacity>
+    <cardriver>Ahmet</cardriver>
+    <carexpense>2500</carexpense>
+  </car>
+  <car>
+    <carno>5</carno>
+    <carmodelname>SUV</carmodelname>
+    <carcapacity>6</carcapacity>
+    <cardriver>Kadir</cardriver>
+    <carexpense>5000</carexpense>
+  </car>
+</cars>

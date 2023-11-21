@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<shipments>
+
+	<shipment>
+		<shipmentno>1</shipmentno>
+		<shipmentname>a</shipmentname>
+		<dispatchpoint>Kadikoy</dispatchpoint>
+		<transportationpoint>Uskudar</transportationpoint>
+		<distance>10</distance>
+		<price>1000</price>
+	</shipment>
+</shipments>

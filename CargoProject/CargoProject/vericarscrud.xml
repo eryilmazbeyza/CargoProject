@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cars>
+
+	<car>
+		<carno>1</carno>
+		<carmodelname>SUV</carmodelname>
+		<carcapacity>10</carcapacity>
+		<cardriver>Ali</cardriver>
+		<carexpense>1000</carexpense>
+	</car>
+
+</cars>

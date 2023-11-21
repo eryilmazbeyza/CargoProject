@@ -1,0 +1,42 @@
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.LoginForm.resources
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.Properties.Resources.resources
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.xmlReport.resources
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CargoProject\CargoProject\bin\Debug\CargoProject.exe.config
+C:\Users\HP\Desktop\CargoProject\CargoProject\bin\Debug\CargoProject.exe
+C:\Users\HP\Desktop\CargoProject\CargoProject\bin\Debug\CargoProject.pdb
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.exe
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.pdb
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.carsXmlCrud.resources
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.shipmentXmlCrud.resources
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.CarsForm.resources
+C:\Users\HP\Desktop\CargoProject\CargoProject\bin\Debug\BL.dll
+C:\Users\HP\Desktop\CargoProject\CargoProject\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\CargoProject\CargoProject\bin\Debug\BL.pdb
+C:\Users\HP\Desktop\CargoProject\CargoProject\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.csproj.CopyComplete
+C:\Users\HP\Desktop\CargoProject\CargoProject\obj\Debug\CargoProject.ShipmentForm.resources
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\bin\Debug\CargoProject.exe.config
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\bin\Debug\CargoProject.exe
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\bin\Debug\CargoProject.pdb
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\bin\Debug\BL.dll
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\bin\Debug\BL.pdb
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.CarsForm.resources
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.carsXmlCrud.resources
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.EmployeesForm.resources
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.LoginForm.resources
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.Properties.Resources.resources
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.ShipmentForm.resources
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.shipmentXmlCrud.resources
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.xmlReport.resources
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.csproj.CopyComplete
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.exe
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.pdb
+C:\Users\HP\Desktop\Benim Projelerim\CargoProject\CargoProject\obj\Debug\CargoProject.CustomersForm.resources
